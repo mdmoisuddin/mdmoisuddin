@@ -1,8 +1,7 @@
-
-- 🤔 I’m looking for help with ...[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<img align="right" alt="Coding" width="400" src="https://i1.sndcdn.com/artworks-000338073126-tfqb0b-t500x500.jpg">
 <h1 align="center">Hi 👋, I'm SHAIK MOIS</h1>
 <h3 align="center">A passionate DATA SCIENTIST</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmoisuddin&label=Profile%20views&color=0e75b6&style=flat" alt="mdmoisuddin" /> </p>
 
@@ -30,9 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmoisuddin&show_icons=true&locale=en" alt="mdmoisuddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmoisuddin&" alt="mdmoisuddin" /></p>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
